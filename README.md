@@ -1,2 +1,3 @@
 # Bulls_and_cows
-Just a game I made
+This is just a game that I made
+while I was learning how to code in C++
